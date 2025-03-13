@@ -1,0 +1,11 @@
+langchain>=0.1.0
+langchain-community>=0.0.10
+beautifulsoup4>=4.12.2
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+python-dotenv>=1.0.0
+torch>=2.0.0
+transformers>=4.30.0
+tqdm>=4.65.0
+html2text>=2020.1.16
+qdrant-client>=1.6.0 
